@@ -1,4 +1,4 @@
-package com.example.springcriteria.entity;
+package com.example.examination04.entity;
 
 import lombok.Getter;
 import lombok.Setter;

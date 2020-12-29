@@ -1,9 +1,9 @@
-package com.example.springcriteria.specifications;
+package com.example.examination04.specifications;
 
-import com.example.springcriteria.entity.GroupAdventure;
-import com.example.springcriteria.entity.GroupAdventure_;
-import com.example.springcriteria.entity.Mountain;
-import com.example.springcriteria.entity.Mountain_;
+import com.example.examination04.entity.GroupAdventure;
+import com.example.examination04.entity.GroupAdventure_;
+import com.example.examination04.entity.Mountain;
+import com.example.examination04.entity.Mountain_;
 import org.springframework.data.jpa.domain.Specification;
 
 import javax.persistence.criteria.Join;

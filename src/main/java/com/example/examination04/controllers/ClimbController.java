@@ -1,8 +1,8 @@
-package com.example.springcriteria.controllers;
+package com.example.examination04.controllers;
 
-import com.example.springcriteria.entity.Climber;
-import com.example.springcriteria.repositories.ClimberRepository;
-import com.example.springcriteria.specifications.ClimberSpecification;
+import com.example.examination04.entity.Climber;
+import com.example.examination04.repositories.ClimberRepository;
+import com.example.examination04.specifications.ClimberSpecification;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;

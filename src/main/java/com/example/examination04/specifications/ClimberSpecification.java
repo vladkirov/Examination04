@@ -1,7 +1,7 @@
-package com.example.springcriteria.specifications;
+package com.example.examination04.specifications;
 
-import com.example.springcriteria.entity.Climber;
-import com.example.springcriteria.entity.Climber_;
+import com.example.examination04.entity.Climber;
+import com.example.examination04.entity.Climber_;
 import org.springframework.data.jpa.domain.Specification;
 
 public class ClimberSpecification {

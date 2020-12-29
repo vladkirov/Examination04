@@ -1,8 +1,8 @@
-package com.example.springcriteria.controllers;
+package com.example.examination04.controllers;
 
-import com.example.springcriteria.entity.GroupAdventure;
-import com.example.springcriteria.repositories.GroupAdventureRepository;
-import com.example.springcriteria.specifications.GroupAdventureSpecifications;
+import com.example.examination04.entity.GroupAdventure;
+import com.example.examination04.repositories.GroupAdventureRepository;
+import com.example.examination04.specifications.GroupAdventureSpecifications;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;

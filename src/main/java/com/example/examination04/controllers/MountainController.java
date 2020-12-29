@@ -1,8 +1,8 @@
-package com.example.springcriteria.controllers;
+package com.example.examination04.controllers;
 
-import com.example.springcriteria.entity.Mountain;
-import com.example.springcriteria.repositories.MountainRepository;
-import com.example.springcriteria.specifications.MountainSpecifications;
+import com.example.examination04.entity.Mountain;
+import com.example.examination04.repositories.MountainRepository;
+import com.example.examination04.specifications.MountainSpecifications;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
